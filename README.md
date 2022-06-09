@@ -6,7 +6,7 @@ Todas as análises mostradas neste repositorio foram explicadas ao máximo para 
 
 ---
 
-## Perfil do profesional de dados em Brasil
+## Perfil do profissional de dados em Brasil
 
 A primeira análise que vamos apresentar esta relacionada com o perfil de profesional de dadoos no Brasil feita na aula de Data Science 2.0
 
