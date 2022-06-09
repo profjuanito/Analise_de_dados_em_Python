@@ -8,6 +8,6 @@ Todas as análises mostradas neste repositorio foram explicadas ao máximo para 
 
 ## Perfil do profissional de dados em Brasil
 
-A primeira análise que vamos apresentar esta relacionada com o perfil de profesional de dadoos no Brasil feita na aula de Data Science 2.0
+A primeira análise que vamos apresentar esta relacionada com o perfil de profissional de dadoos no Brasil feita na aula de Data Science 2.0
 
 A ideia nesta análise foi, não só mostrar uma análise de como esta esta profissão no Brasil, tambem quiz mostrar e entender todo o procedimento realizado neste tipo de análise, desde como importar os dados, entender cada variável até obter uma conclusão ou conclusões.
